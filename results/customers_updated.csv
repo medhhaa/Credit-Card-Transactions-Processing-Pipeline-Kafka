@@ -1,0 +1,31 @@
+customer_id,name,phone_number,address,email,credit_score,annual_income
+1,Mrs. Barbara Curtis MD,475-250-6233,"7326 John Ridge, Buffalo, NY 11513",hallsusan@example.com,695,242100.0
+2,Jessica Stephenson,394-384-2827,"794 Sarah Spur, New York, NY 19446",lawrencelance@example.org,823,589600.0
+3,Monica Bird,999-866-9442,"5349 Melissa Prairie, Cheektowaga, NY 14264",halecheryl@example.com,772,117500.0
+4,Shelby Blanchard,457-718-5657,"7077 Sue Inlet, Brooklyn, NY 15806",joshuanelson@example.net,776,36500.0
+5,Amanda Buckley,789-809-9898,"5035 Ryan Junctions, Schenectady, NY 16904",zachary66@example.net,795,96400.0
+6,Alexander Johnston,999-612-1951,"1444 Kyle Landing, Queens, NY 17516",htodd@example.com,792,110300.0
+7,Jeffrey Powell,230-759-7164,"6565 Christopher Mills, New York, NY 11732",williammorales@example.org,796,485600.0
+8,James White,997-862-4301,"3134 Woodard Extension, Binghamton, NY 10182",crystal70@example.org,726,53100.0
+9,Mary Garcia,710-924-9584,"1999 Laura Rue, Staten Island, NY 19701",robertclayton@example.net,660,84000.0
+10,Mr. Kevin Esparza DDS,218-391-9192,"1080 Williams Crest, Schenectady, NY 11941",ealvarez@example.net,711,25700.0
+11,Lisa Bender,395-560-2934,"9780 Blevins Creek, Niagara Falls, NY 14201",lopezmichael@example.org,629,42600.0
+12,Jessica Adams,833-412-7598,"2960 Davis Roads, New York, NY 14197",jonesjames@example.net,783,767200.0
+13,Sean White,408-971-9028,"628 Victoria Place, Yonkers, NY 16903",karen97@example.net,760,69400.0
+14,Tammy Flowers,881-779-3585,"4160 Richard Crest, Yonkers, NY 13141",youngmaureen@example.net,741,82000.0
+15,James Christensen DDS,698-917-1488,"492 Jamie Terrace, Troy, NY 12940",oking@example.org,679,78500.0
+16,Cassandra Nixon,563-550-5243,"7422 Nielsen Shores, Yonkers, NY 17862",brian72@example.net,710,70700.0
+17,Destiny Mack,485-725-5310,"9968 Williams Oval, Bronx, NY 12985",crystalduke@example.net,656,185400.0
+18,Gordon Shields,711-615-6624,"8354 Scott Meadows, Troy, NY 17283",warnercharlene@example.org,652,51100.0
+19,Heidi Allison,441-255-9481,"3195 Meghan River, Buffalo, NY 11065",jacob48@example.org,762,180900.0
+20,Jonathan Taylor MD,718-902-1842,"5932 Roberson Pass, New York, NY 18501",wsullivan@example.org,720,114000.0
+21,Christopher Williams,621-788-9611,"1092 Wade Pine, Buffalo, NY 14845",dmorgan@example.net,691,186000.0
+22,Linda Rose,258-320-6154,"8388 James Lake, Cheektowaga, NY 14033",wilsonwilliam@example.org,632,93300.0
+23,Deanna Turner,491-624-7456,"1691 Corey Cliff, Binghamton, NY 15227",regina69@example.net,677,41000.0
+24,Monica Valenzuela,486-726-9894,"8868 Morris Springs, Yonkers, NY 19507",erin03@example.org,708,72500.0
+25,Alexander Stewart,356-316-8876,"9113 David Island, Staten Island, NY 17043",meadowsmakayla@example.org,635,45100.0
+26,Charles Powell,644-845-9825,"5565 Thomas Mall, Rochester, NY 16297",amberhumphrey@example.com,675,46700.0
+27,Claudia Anderson,664-971-2304,"3420 Steven Harbors, Albany, NY 10112",karenhawkins@example.com,700,33700.0
+28,Ashley Castillo,445-800-4250,"2051 Jonathan Gardens, New York, NY 12948",williamjones@example.com,769,58900.0
+29,Judy Mccoy,468-996-4410,"9128 Oscar Shores, Buffalo, NY 16786",fosterstephen@example.net,784,301200.0
+30,Taylor Wilson,447-563-8542,"4770 Ward Heights, Brooklyn, NY 19398",fmolina@example.org,787,138000.0
