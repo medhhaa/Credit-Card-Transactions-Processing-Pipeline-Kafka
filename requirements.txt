@@ -1,0 +1,8 @@
+# Core packages
+kafka-python
+mysql-connector-python
+python-dotenv
+pyspark
+
+# Utility packages
+black # For code formatting
